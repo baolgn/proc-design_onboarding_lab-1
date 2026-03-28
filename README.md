@@ -1,1 +1,1 @@
-# proc-design_onboarding_lab-1
+# NYU Processor Design: Onboarding Lab 1
