@@ -1,0 +1,3 @@
+/Users/bao.lgn/Desktop/processorDesign/proc-design_onboarding_lab-1/build/CMakeFiles/hello_world.dir
+/Users/bao.lgn/Desktop/processorDesign/proc-design_onboarding_lab-1/build/CMakeFiles/edit_cache.dir
+/Users/bao.lgn/Desktop/processorDesign/proc-design_onboarding_lab-1/build/CMakeFiles/rebuild_cache.dir
